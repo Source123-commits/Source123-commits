@@ -24,5 +24,5 @@ Node.js Express.js Go Gin MongoDB MySQL PostgreSQL
 
 
 
-                                                                       Thank you for visiting my profile! 🚀
-                                                                            Keep Coding & Stay Curious 💻
+                                     Thank you for visiting my profile! 🚀
+                                        Keep Coding & Stay Curious 💻
