@@ -1,7 +1,6 @@
 Hi there 👋,I'm Sakib Ahmed
 
 Full Stack Developer | Backend Developer | Competitive Programmer | Software Engineer
-aliullah1203
 
 🚀 About Me
 🎓 Graduated in Computer Science & Engineering (CSE) from UITS
