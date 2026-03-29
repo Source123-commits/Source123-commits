@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi there 👋,I'm Sakib Ahmed
 
-<!--
-**Source123-commits/Source123-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer | Backend Developer | Competitive Programmer | Software Engineer
+aliullah1203
 
-Here are some ideas to get you started:
+🚀 About Me
+🎓 Graduated in Computer Science & Engineering (CSE) from UITS
+🌱 Currently working as a Backend Developer at Luciety
+💬 Ask me about Tech Related Topics
+📬 Connect with Me
+   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Tech Stack
+Node.js | Express.js | Backend Developer | JavaScript | React.js | Competitive Programmer | OOP | Operating Systems | MongoDB | MySQL |  Git & GitHub | Laravel
+
+🦖 Programming Languages
+C C++ Python Java Go
+
+🌐 Frontend
+HTML CSS JavaScript React Bootstrap
+
+⛏ Backend & Database
+Node.js Express.js Go Gin MongoDB MySQL PostgreSQL
+
+
+
+                                                                       Thank you for visiting my profile! 🚀
+                                                                            Keep Coding & Stay Curious 💻
